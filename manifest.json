@@ -3,8 +3,6 @@
   "short_name": "Frsh",
   "theme_color": "#333333",
   "background_color": "#333333",
-  "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "https://citizen-standard-pwa.webflow.io/promises"
 }
