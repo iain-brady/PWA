@@ -1,0 +1,9 @@
+{
+  "name": "Fresh Start",
+  "short_name": "Fresssh",
+  "theme_color": "#333333",
+  "background_color": "#333333",
+  "display": "fullscreen",
+  "icons": null,
+  "splash_pages": null
+}
