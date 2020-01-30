@@ -1,10 +1,10 @@
 {
-  "name": "Fresh Start",
-  "short_name": "Fresssh",
+  "name": "Freeeeesh",
+  "short_name": "Frsh",
   "theme_color": "#333333",
   "background_color": "#333333",
   "display": "fullscreen",
-  "splash_pages": null,
   "orientation": "portrait",
-  "start_url": "/promises"
+  "scope": "/",
+  "start_url": "https://citizen-standard-pwa.webflow.io/promises"
 }
