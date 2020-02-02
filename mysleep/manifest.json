@@ -1,9 +1,9 @@
 {
   "name": "FRESSSH",
   "short_name": "FRS",
-  "theme_color": "#333333",
-  "background_color": "#333333",
-  "display": "Standalone",
+  "theme_color": "#F26D6D",
+  "background_color": "#F26D6D",
+  "display": "fullscreen",
   "icons": null,
   "splash_pages": null
 }
