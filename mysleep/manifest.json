@@ -1,9 +1,12 @@
 {
   "name": "MySleep",
   "short_name": "MySleep",
+  "start_url": "https://my-sleep.webflow.io/old-home",
   "theme_color": "#F26D6D",
   "background_color": "#F26D6D",
   "display": "fullscreen",
   "icons": null,
   "splash_pages": null
 }
+
+
