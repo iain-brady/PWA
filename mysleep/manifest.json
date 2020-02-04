@@ -1,7 +1,7 @@
 {
   "name": "MySleep",
   "short_name": "MySleep",
-  "start_url": "https://my-sleep.webflow.io/old-home",
+  "start_url": "https://my-sleep.webflow.io/mysleep",
   "theme_color": "#F26D6D",
   "background_color": "#F26D6D",
   "display": "fullscreen",
