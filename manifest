@@ -1,0 +1,11 @@
+{
+  "name": "MySleep",
+  "short_name": "MySleep",
+  "start_url": "https://beta-my-sleep.webflow.io/mysleep",
+  "theme_color": "#F26D6D",
+  "background_color": "#F26D6D",
+  "display": "fullscreen",
+  "icons": null,
+  "splash_pages": null
+}
+
